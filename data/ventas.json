@@ -1,0 +1,12 @@
+[
+{"id":1,"cliente":"Ana","producto":"Laptop","cantidad":1,"precio":1200000,"fecha":"2023-01-15"},
+{"id":2,"cliente":"Luis","producto":"Smartphone","cantidad":2,"precio":800000,"fecha":"2023-01-20"},
+{"id":3,"cliente":"Marta","producto":"Tablet","cantidad":1,"precio":1000000,"fecha":"2023-02-10"},
+{"id":4,"cliente":"Carlos","producto":"Laptop","cantidad":2,"precio":1200000,"fecha":"2023-02-15"},
+{"id":5,"cliente":"Sofía","producto":"Smartphone","cantidad":3,"precio":800000,"fecha":"2023-03-05"},
+{"id":6,"cliente":"Javier","producto":"Tablet","cantidad":4,"precio":1000000,"fecha":"2023-03-10"},
+{"id":7,"cliente":"Lucía","producto":"Tablet","cantidad":1,"precio":1000000,"fecha":"2023-04-01"},
+{"id":8,"cliente":"Miguel","producto":"Laptop","cantidad":2,"precio":1200000,"fecha":"2023-04-05"},
+{"id":9,"cliente":"Elena","producto":"Laptop","cantidad":1,"precio":1200000,"fecha":"2023-05-12"},
+{"id":10,"cliente":"Diego","producto":"Smartphone","cantidad":1,"precio":800000,"fecha":"2023-05-20"}
+]

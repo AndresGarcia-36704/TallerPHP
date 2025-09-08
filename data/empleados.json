@@ -1,0 +1,12 @@
+[
+{"nombre":"Ana","salario":3000000,"departamento":"Ventas"},
+{"nombre":"Luis","salario":3200000,"departamento":"Marketing"},
+{"nombre":"Marta","salario":2400000,"departamento":"Ventas"},
+{"nombre":"Carlos","salario":4000000,"departamento":"TI"},
+{"nombre":"Sofía","salario":2200000,"departamento":"Marketing"},
+{"nombre":"Javier","salario":3500000,"departamento":"TI"},
+{"nombre":"Lucía","salario":2500000,"departamento":"Ventas"},
+{"nombre":"Miguel","salario":1900000,"departamento":"Marketing"},
+{"nombre":"Elena","salario":3300000,"departamento":"TI"},
+{"nombre":"Diego","salario":2400000,"departamento":"Ventas"}
+]
